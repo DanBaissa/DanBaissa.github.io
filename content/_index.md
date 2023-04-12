@@ -155,13 +155,12 @@ sections:
       folders:
       - publication
     text: |-
-      # {{% callout note %}}
-      # Quickly discover relevant content by [filtering publications](./publication/).
-      # {{% /callout %}}
+     
     title: Working Papers
   design:
     columns: "2"
     view: citation
+    id: Working
 
 # - block: portfolio
 #   content:

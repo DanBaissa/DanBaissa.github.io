@@ -13,12 +13,13 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
+  - name: Working Papers
+   url: '#Working'
+   weight: 30
   - name: Astrophotography
     url: '#Astrophotography'
-    weight: 30
-  # - name: Talks
-  #  url: '#talks'
-  #  weight: 40
+    weight: 40
+
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
