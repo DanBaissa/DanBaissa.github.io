@@ -160,7 +160,7 @@ sections:
   design:
     columns: "2"
     view: citation
-    id: Working
+    id: working
 
 # - block: portfolio
 #   content:
@@ -188,7 +188,7 @@ sections:
     title: Gallery
   design:
     columns: "2"
-    id: Astrophotography
+    id: astrophotography
 
 # - block: collection
 #   content:
