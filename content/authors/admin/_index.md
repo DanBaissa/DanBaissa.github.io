@@ -49,6 +49,6 @@ role: PhD Candidate
 superuser: true
 title: Daniel K Baissa
 ---
-I am a PhD candidate in the Government Department at Harvard University, specializing in the intricate causes of political violence, civil wars, and regime instability. My research primarily investigates the role of climate change, its measurements, and its potential impact on current political outcomes. To analyze these rare and complex phenomena, I utilize Machine Learning techniques and satellite imagery data. My methodological approach is rooted in statistical methods, encompassing Bayesian Additive Regression Trees (BART), Robust Estimators, and Geospatial statistics. My regional focus lies within the Horn of Africa.
+I am a PhD candidate in the Government Department at Harvard University, specializing in the intricate causes of political violence, civil wars, and regime instability. My research primarily investigates the role of climate change, its measurements, and its potential impact on current political outcomes. To analyze these rare and complex phenomena, I utilize Machine Learning techniques and satellite imagery data. My methodological approach is rooted in statistical methods, encompassing Bayesian Additive Regression Trees (BART), Robust Estimators, and Geospatial statistics. My regional area of interest lies within the Horn of Africa.
 
 # {style="text-align: justify;"}
