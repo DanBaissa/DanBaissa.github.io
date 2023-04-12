@@ -183,9 +183,9 @@ sections:
 #   id: projects
 - block: markdown
   content:
-    subtitle: A few images I have taken
+    subtitle: A few astronomical images I have taken
     text: '{{< gallery album="demo" >}}'
-    title: Astrophotography
+    title: Gallery
   design:
     columns: "2"
     id: Astrophotography
