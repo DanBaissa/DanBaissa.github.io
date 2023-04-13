@@ -154,9 +154,8 @@ sections:
       exclude_featured: true
       folders:
       - publication
-    text: |-
-     
-    title: Working Papers
+
+    title: Preprint
   design:
     columns: "2"
     view: citation
