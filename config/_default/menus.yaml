@@ -18,7 +18,10 @@ main:
     weight: 40
   - name: Astrophotography
     url: '#astrophotography'
-    weight: 50
+    weight: 50 
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 60
 
   # - name: Contact
   #   url: '#contact'
@@ -26,6 +29,4 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- - name: CV
-   url: uploads/resume.pdf
-   weight: 70
+
