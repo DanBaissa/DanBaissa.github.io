@@ -13,7 +13,6 @@ publication_types:
   - "3"
 publishDate: "2023-04-10T00:00:00Z"
 summary: This study reveals a significant correlation between drought and urban migration in Syria using Albedo as a proxy for desertification and nighttime lights to gauge population movement.
-
 title: "Climate Change, Desertification, and Migration (TRUNCATED VERSION)"
 url_pdf: "publication/Climate_Migration/Baissa_Climate_and_Migration_NATURE_Length.pdf"
 ---
