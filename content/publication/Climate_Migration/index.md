@@ -25,7 +25,7 @@ summary: This study uses Albedo as a proxy for desertification and night lights 
 title: "Climate Change, Desertification, and Migration (TRUNCATED VERSION)"
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: '#'
-url_pdf: publication/Dissertation_Paper/Baissa_Albedo_Civil_War.pdf
+url_pdf: publication/Climate_Migration/Baissa_Climate_and_Migration_NATURE_Length.pdf
 # url_poster: '#'
 # url_project: ""
 # url_slides: ""
