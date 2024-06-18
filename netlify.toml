@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/intro-to-stats/*"
+  from = "/Intro_to_Stats/*"
   to = "https://intro-to-stats.netlify.app/:splat"
   status = 200
