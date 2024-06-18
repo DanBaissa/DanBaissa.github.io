@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9454cddd-c1fc-44e1-b3ad-20f8d0c89013" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,8 +144,26 @@
       <option name="project" value="LOCAL" />
       <updated>1718740481252</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="trying to slowly add intro to stats">
+      <created>1718741313184</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718741313184</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push" />
@@ -157,6 +176,7 @@
     <MESSAGE value="Linking homes" />
     <MESSAGE value="Adding_intro_to_stats" />
     <MESSAGE value="intro_to_stats_removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="intro_to_stats_removed" />
+    <MESSAGE value="trying to slowly add intro to stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to slowly add intro to stats" />
   </component>
 </project>
