@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/intro-to-stats/*"
+  to = "https://intro-to-stats.netlify.app/:splat"
+  status = 200
