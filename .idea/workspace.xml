@@ -5,106 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9454cddd-c1fc-44e1-b3ad-20f8d0c89013" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/web_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coup_Survival.html" beforeDir="false" afterPath="$PROJECT_DIR$/Coup_Survival.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro_to_Stats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tigray_Conflict_with_IOM_Data.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tigray_Conflict_with_IOM_Data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/.idea/GitHub_NLP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Autism_Notes_Model_Training_and_SHAP_Explanation/Autism_Notes_Model_Training_and_SHAP_Explanation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Autism_Notes_Model_Training_and_SHAP_Explanation/Autism_Notes_Model_Training_and_SHAP_Explanation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Autism_Notes_Model_Training_and_SHAP_Explanation/Autism_Notes_Model_Training_and_SHAP_Explanation2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Autism_Notes_Model_Training_and_SHAP_Explanation/Autism_Notes_Model_Training_and_SHAP_Explanation2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/001-probability.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/001-probability.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/01-pvalue.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/01-pvalue.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/02-ttest.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/02-ttest.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/03-ab.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/03-ab.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/04-lm.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/04-lm.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/041-lm.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/041-lm.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/042-lm.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/042-lm.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/043-lm.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/043-lm.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/05-logit.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/05-logit.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/055-Kmeans.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/055-Kmeans.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/06-RF.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/06-RF.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/07-Conclusion.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/07-Conclusion.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/Basic_Stats_Concepts.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/Basic_Stats_Concepts.Rproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/README.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/README.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/ab-testing-explained.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/ab-testing-explained.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/cross.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/cross.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/dive-into-the-t-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/dive-into-the-t-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/diving-into-spatial-regression.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/diving-into-spatial-regression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/exploring-probability-distributions-with-visuals.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/exploring-probability-distributions-with-visuals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/going-beyond-linear-regression-introduction-to-logistic-regression.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/going-beyond-linear-regression-introduction-to-logistic-regression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/hello-bookdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/hello-bookdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/introduction-to-k-means-clustering.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/introduction-to-k-means-clustering.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/introduction-to-linear-regression.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/introduction-to-linear-regression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/introduction-to-machine-learning-random-forests.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/introduction-to-machine-learning-random-forests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/anchor-sections-1.1.0/anchor-sections-hash.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/anchor-sections-1.1.0/anchor-sections-hash.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/anchor-sections-1.1.0/anchor-sections.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/anchor-sections-1.1.0/anchor-sections.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/anchor-sections-1.1.0/anchor-sections.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/anchor-sections-1.1.0/anchor-sections.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-bookdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-bookdown.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-clipboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-clipboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-fontsettings.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-fontsettings.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-highlight.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-highlight.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-search.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-search.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-table.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/plugin-table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/app.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/clipboard.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/clipboard.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/jquery.highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/jquery.highlight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-bookdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-bookdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-clipboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-clipboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-fontsettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-fontsettings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-sharing.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/gitbook-2.6.7/js/plugin-sharing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/jquery-3.6.0/jquery-3.6.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/libs/jquery-3.6.0/jquery-3.6.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/reference-keys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/reference-keys.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/robust-estimation-dealing-with-outliers-and-heavy-tails.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/robust-estimation-dealing-with-outliers-and-heavy-tails.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/robust-standard-errors-tackling-heteroscedasticity.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/robust-standard-errors-tackling-heteroscedasticity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/understanding-the-p-value.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/understanding-the-p-value.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/wrapping-up-fun-with-numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_book/wrapping-up-fun-with-numbers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_bookdown.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_bookdown.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_output.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/_output.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/book.bib" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/book.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/index.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/index.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/packages.bib" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/packages.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/preamble.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/preamble.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Basic_Stats_Concepts/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Diffusion/diffusion_model.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Diffusion/diffusion_model.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Example_Detecting_hatespeach_Arabic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Example_Detecting_hatespeach_Arabic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Intro_Basic_Stats.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Intro_Basic_Stats.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Intro_Basic_Stats.nb.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Intro_Basic_Stats.nb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Intro_Learning_Transformers.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Intro_Learning_Transformers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Introduction_to_Basic_Statistical_Concepts.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Introduction_to_Basic_Statistical_Concepts.Rmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Introduction_to_Basic_Statistical_Concepts.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Introduction_to_Basic_Statistical_Concepts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Mamba/Mamba.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Mamba/Mamba.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Text_classification/Text_classification.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Text_classification/Text_classification.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Transformer_Time/Karas_Stock_Price_Prediction_Trading_Strategy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Transformer_Time/Karas_Stock_Price_Prediction_Trading_Strategy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Visualizing_attention/Visualizing_attention.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Visualizing_attention/Visualizing_attention.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Visualizing_attention/attention_weights.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Visualizing_attention/attention_weights.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/Web_Tigray_Conflict_with_IOM_Data.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/Web_Tigray_Conflict_with_IOM_Data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/itt/Image_to_text.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/itt/Image_to_text.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/sd/Stable_Diffusion.md" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/sd/Stable_Diffusion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transformers/web_All_GPW-V4_Results_Final2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transformers/web_All_GPW-V4_Results_Final2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_All_GPW-V4_Results_Final.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_All_GPW-V4_Results_Final.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718739547730</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="intro_to_stats_removed">
+      <created>1718740481252</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718740481252</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,6 +156,7 @@
     <MESSAGE value="Fixed typos" />
     <MESSAGE value="Linking homes" />
     <MESSAGE value="Adding_intro_to_stats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding_intro_to_stats" />
+    <MESSAGE value="intro_to_stats_removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro_to_stats_removed" />
   </component>
 </project>
