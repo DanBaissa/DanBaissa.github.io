@@ -1,7 +1,253 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel K Baissa's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href='https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap' rel='stylesheet'> <!-- Add Montserrat Thin font -->
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <nav>
+            <div class="logo">Daniel K Baissa</div>
+            <ul>
+                <li><a href="#index.html">Home</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#work-experience">Experience</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#Gallery">Astrophotos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="home" class="split-section">
+            <div class="profile">
+                <h1>Daniel K Baissa</h1>
+                <img src="profile.jpg" alt="Daniel K Baissa" class="profile-image">
+                <div class="icon-links">
+                    <a href="https://github.com/DanBaissa/" class="icon-link">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="mailto:your-email@example.com" class="icon-link">
+                        <i class="material-icons">email</i>
+                    </a>
+                </div>
+            </div>
+            <div class="education">
+                <h2>Skills</h2>
+                <p>R, Python, Shiny, Stata, LaTeX, Autodesk Inventor</p>
+
+                <div class="vertical-space"></div>
+
+                <h2>Education</h2>
+                <p><strong>Harvard University</strong><br>Ph.D. in Government, Expected completion: 2024</p>
+                <p><strong>Harvard University</strong><br>A.M. in Government, 2023</p>
+                <p><strong>State University of New York at Buffalo</strong><br>M.A. in Political Science, 2015</p>
+                <p><strong>Utica College of Syracuse University</strong><br>B.A. in Government and Politics, 2011</p>
+
+                <div class="vertical-space"></div>
+
+                <h2>About Me</h2>
+               <p>I am a PhD candidate in the Government Department at Harvard University, specializing in the intricate causes of political violence, civil wars, and regime instability. My research employs machine learning techniques such as BART, Random Forests, Support Vector Machines, Gradient Boosting, and Transformer models, alongside statistical methods including GIS and spatial regression, to model these political phenomena.</p>
+            </div>
+        </section>
+
+        <main class="main-content">
+            <section id="portfolio" class="section">
+                <div class="section-title">
+                    <h2>Portfolio</h2>
+                </div>
+                <div class="section-content">
+                    <div class="subsection">
+                        <h2>Teaching Stats:</h2>
+                        <h3>
+                            <a href="https://danbaissa.github.io/Intro_to_Stats/" class="portfolio-link">A Basic Introduction to Stats Concepts</a>
+                        </h3>
+                        <p>A bookdown convering some introductory data science. Concepts from teaching data science to undergrads at Harvard</p>
+                    </div>
+                      <div class="subsection">
+                        <h2>Traditional Stats Methods:</h2>
+                        <h3>
+                            <a href="Tigray_Conflict_with_IOM_Data.html" class="portfolio-link">Estimating Displacement Caused by War in Tigray</a>
+                        </h3>
+                        <p>Using Satalite imagry to model the displacement of people in Tigray during their civil war caused by conflict.</p>
+
+                        <h3>
+                            <a href="web_All_GPW-V4_Results_Final.html" class="portfolio-link">Using Satalites to Estimate Population</a>
+                        </h3>
+                        <p>Using NASA's VIIRS satalite data to estimate populations of 10km x 10km grid cells in countries</p>
+
+                        <h3>
+                            <a href="Coup_Survival.html" class="portfolio-link">Using Survival Models to Estimate Coup Probabilities</a>
+                        </h3>
+                        <p>Using Survival Models to estimate the probabily of coups in countries based on civilian instiutions.</p>
+                    </div>
+                      <div class="subsection">
+                        <h2>Machine Learning Examples:</h2>
+                        <h3>
+                            <a href="https://danbaissa.github.io/NLP/" class="portfolio-link">Transformer Model Examples</a>
+                        </h3>
+                        <p>A tutorial for students to learn how to use transformer based models for NLP, image generation, and timeseries analysis</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="work-experience" class="section">
+                <div class="section-title">
+                    <h2>Recent Work Experience</h2>
+                </div>
+                <div class="section-content">
+             <div class="subsection">
+                    <h3>Research Fellow for the Director of the Weatherhead Center at Harvard</h3>
+                    <ul>
+            <li><strong>Research and Analysis</strong>: Conducted in-depth research on international relations and political science topics. Analyzed complex data sets and synthesized findings to support the Director's academic and policy initiatives.</li>
+            <li><strong>Simplification of Complex Concepts</strong>: Translated intricate research topics into simple, comprehensible terms for broader audiences, ensuring accessibility and understanding across diverse stakeholders.</li>
+            <li><strong>Publication and Presentation Support</strong>: Assisted in preparing academic papers, reports, and presentations, contributing to the Center’s research output and public engagement efforts.</li>
+            <li><strong>Collaborative Projects</strong>: Worked collaboratively with other fellows and researchers, fostering a multidisciplinary approach to problem-solving and policy analysis.</li>
+            <li><strong>Communication Skills</strong>: Developed strong written and verbal communication skills, essential for presenting research findings and engaging with academic and policy communities.</li>
+        </ul>
+             </div>
+                    <div>
+                <div class="subsection">
+                        <h3>Teaching Fellow and Instructional Fellow, Harvard University (Gov 50 Data)</h3>
+                        <ul>
+            <li><strong>Course Design and Instruction</strong>: Designed and taught the core undergraduate data science course, Gov 50 Data. Created open-ended assignments guiding students through the full data analysis workflow including formulating hypotheses, data sourcing, analysis, and communicating findings.</li>
+            <li><strong>Pedagogical Approach</strong>: Simplified complex concepts like linear regression by relating them to familiar math concepts and used practical, hands-on methods like scatterplot data analysis to foster intuitive understanding.</li>
+            <li><strong>Student Outcomes</strong>: Empowered students, even those with limited mathematical backgrounds, to confidently apply data science skills. Many students created Shiny web applications for their resumes.</li>
+            <li class="recognition"><strong>Recognition</strong>: Awarded multiple Certificates of Distinction in Teaching by Harvard University for excellence in teaching.</li>
+        </ul>
+                    </div>
+                <div class="subsection">
+                        <h3>GOV 1759: Behavioural Insights and Public Policy: Nudging for Good</h3>
+                        <ul>
+            <li><strong>Course Support and Instruction</strong>: Assisted in teaching the undergraduate course that covers the application of behavioral economics to public policy. Helped students understand and apply complex behavioral insights to real-world policy problems.</li>
+            <li><strong>Behavioral Economics Focus</strong>: Introduced students to key concepts of behavioral economics, including cognitive biases, heuristics, present bias, and social norms, and their implications for public policy.</li>
+            <li><strong>Practical Application</strong>: Guided students through the design and testing of behavioral interventions to address policy issues in areas such as healthcare, finance, education, and environmental conservation. Encouraged empirical analysis and evidence-based decision-making.</li>
+            <li><strong>Research Translation</strong>: Broke down complex research topics into simple, comprehensible terms for students, ensuring accessibility and effective learning. Highlighted the use of behavioral insights teams in governments worldwide to develop innovative policy solutions.</li>
+            <li><strong>Consulting and Policy Relevance</strong>: Supported students in developing and presenting projects that apply behavioral economics to improve public policy, enhancing their ability to use these insights in professional contexts. Emphasized real-world applications and impact.</li>
+        </ul>
+
+
+                </div>
+            </section>
+
+            <section id="publications" class="section">
+                <div class="section-title">
+                    <h2>Featured Publications</h2>
+                </div>
+                <div class="section-content">
+                    <div class="subsection">
+                        <h3>
+
+                        <a href="link-to-paper1.pdf" class="publication-link">When BLUE is not best: non-normal errors and the linear model</a>
+                         </h3>
+                            <p>While it is well known that least-squares estimates are sensitive to single, unusual data points, this knowledge has not led to careful practices when using least-squares estimators. Using statistical theory and Monte Carlo simulations, we highlight the importance of using more robust estimators along with variable transformations</p>
+                    <div class="publication-links">
+<!--    <a href="link-to-pdf.pdf" class="btn-link" download>-->
+<!--        <i class="fas fa-file-pdf"></i>-->
+<!--        <span>PDF</span>-->
+<!--    </a>-->
+<!--    <a href="link-to-citation" class="btn-link" target="_blank">-->
+<!--        <i class="fas fa-quote-right"></i>-->
+<!--        <span>Cite</span>-->
+<!--    </a>-->
+<!--    <a href="https://github.com/carlislerainey/heavy-tails" class="btn-link" target="_blank">-->
+<!--        <i class="fab fa-github"></i>-->
+<!--        <span>Code</span>-->
+<!--    </a>-->
+    <a href="https://doi.org/doi:10.1017/psrm.2018.34" class="btn-link" target="_blank">
+        <i class="fas fa-link"></i>
+        <span>DOI</span>
+    </a>
+</div>
+                </div>
+            </section>
+
+            <section id="working-papers" class="section">
+                <div class="section-title">
+                    <h2>Preprint</h2>
+                </div>
+                <div class="section-content">
+                    <div class="subsection">
+                        <h3>
+                        <a href="papers/Baissa_Albedo_Civil_War.pdf" class="publication-link">Albedo as a Measure of Climate Change for Civil War Research</a>
+                            </h3>
+                        <p>Although numerous studies have examined the link between climate change and civil conflict, many yield null results, possibly due to misaligned climate measurements and their real impact on agrarian communities. This study suggests using Albedo as a proxy for land's carrying capacity changes and finds a positive relationship between Albedo changes and conflict onset, highlighting the importance of nuanced environmental metrics for understanding this complex relationship.</p>
+                    </div>
+                    <div class="subsection">
+                        <h3>
+                            <a href="papers/Baissa_Climate_and_Migration_NATURE_Length.pdf" class="publication-link">Climate Change, Desertification, and Migration (TRUNCATED VERSION)</a>
+                        </h3>
+                            <p>This study examines the relationship between desertification and human migration in Syria, using albedo as a proxy for desertification and night lights for population movement. A multi-model regression analysis reveals a significant correlation between drought and urban migration, highlighting the importance of understanding environmental migration dynamics and offering insights for policymakers on climate change adaptation and sustainable land use.</p>
+                    </div>
+                    <div class="subsection">
+                         <h3>
+                            <a href="papers/Bringing_the_Civil_Back_into_Civil_Military_Relations.pdf" class="publication-link">Bringing the Civil Back into Civil Military Relations</a>
+                        </h3>
+                             <p>The civil-military relations literature often emphasizes the military's role in governance, but this study argues that civilian state and political parties significantly shape military strategy. Using Cox Proportional Hazards models, it shows that state and party strength better predict coup likelihood than traditional military strength indicators, highlighting the need to integrate insights from institutional studies into civil-military relations theory.</p>
+                    </div>
+                </div>
+            </section>
+
+<!--            <section id="posts" class="section">-->
+<!--                <div class="section-title">-->
+<!--                    <h2>Recent Posts</h2>-->
+<!--                </div>-->
+<!--                <div class="section-content">-->
+<!--                    <article>-->
+<!--                        <h3><a href="link-to-post1" class="post-link">Create a PDF to MP3 Converter with Python</a></h3>-->
+<!--                        <p>As a PhD student, I wanted to read a lot of academic papers, but I didn't always have time to sit down and read them. To make it easier on myself, I decided to learn how to both code in Python and create a program that could convert general text articles or PDFs into shareable audio files...</p>-->
+<!--                    </article>-->
+<!--                </div>-->
+<!--            </section>-->
+
+            <section id="gallery" class="section gallery">
+                <div class="section-title">
+                    <h2>Gallery</h2>
+                     <p>I am also an amateur astronomer and have captured and processed several astro images. Here are a few of my works!</p>
+
+                </div>
+                <div class="section-content">
+                    <div class="gallery-images">
+                        <img src="Astro/Maia.jpg" alt="Pleiades">
+                        <img src="Astro/Rosette.jpg" alt="Resette Nebula">
+                        <img src="Astro/Orion2.jpg" alt="Orion2 Nebula">
+                        <img src="Astro/Orion_Itook_12_30.jpg" alt="Orion_Itook_12_30 Nebula">
+                        <img src="Astro/IMG-7983.JPG" alt="IMG-7983a">
+                        <img src="Astro/Moon1.PNG" alt="Moon1">
+                        <img src="Astro/Moon2.PNG" alt="Moon2">
+                        <img src="Astro/Moon3.PNG" alt="Moon3">
+                        <img src="Astro/Moon_12_13_22.png" alt="Moon_12_13_22">
+                        <img src="Astro/Mini_pillars_first_try.jpg" alt="Mini_pillars_first_try">
+                        <img src="Astro/ZJupiter.jpg" alt="ZJupiter">
+                    </div>
+                </div>
+            </section>
+
+            <section id="cv" class="section">
+                <div class="section-title">
+                    <h2>CV</h2>
+                </div>
+                <div class="section-content">
+                    <p>You can view my CV <a href="resume.pdf" class="cv-link">here</a>.</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Daniel K Baissa. All rights reserved.</p>
+            <div class="social-links">
+                <a href="https://github.com/your-username">GitHub</a>
+                <a href="https://twitter.com/your-username">Twitter</a>
+                <a href="https://www.linkedin.com/in/your-username">LinkedIn</a>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
