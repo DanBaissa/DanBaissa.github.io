@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daniel K Baissa's Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="dist/css/lightbox.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link href='https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap' rel='stylesheet'> <!-- Add Montserrat Thin font -->
@@ -216,23 +217,23 @@
                     <h2>Gallery</h2>
                      <p>I am also an amateur astronomer and have captured and processed several astro images. Here are a few of my works!</p>
 
-                </div>
-                <div class="section-content">
-                    <div class="gallery-images">
-                        <img src="Astro/Maia.jpg" alt="Pleiades">
-                        <img src="Astro/Rosette.jpg" alt="Resette Nebula">
-                        <img src="Astro/Orion2.jpg" alt="Orion2 Nebula">
-                        <img src="Astro/Orion_Itook_12_30.jpg" alt="Orion_Itook_12_30 Nebula">
-                        <img src="Astro/IMG-7983.JPG" alt="IMG-7983a">
-                        <img src="Astro/Moon1.PNG" alt="Moon1">
-                        <img src="Astro/Moon2.PNG" alt="Moon2">
-                        <img src="Astro/Moon3.PNG" alt="Moon3">
-                        <img src="Astro/Moon_12_13_22.png" alt="Moon_12_13_22">
-                        <img src="Astro/Mini_pillars_first_try.jpg" alt="Mini_pillars_first_try">
-                        <img src="Astro/ZJupiter.jpg" alt="ZJupiter">
-                    </div>
-                </div>
-            </section>
+        <div class="section-content">
+            <div class="gallery-images">
+                <a href="Astro/Maia.jpg" data-lightbox="gallery"><img src="Astro/Maia.jpg" alt="Pleiades"></a>
+                <a href="Astro/Rosette.jpg" data-lightbox="gallery"><img src="Astro/Rosette.jpg" alt="Resette Nebula"></a>
+                <a href="Astro/Orion2.jpg" data-lightbox="gallery"><img src="Astro/Orion2.jpg" alt="Orion2 Nebula"></a>
+                <a href="Astro/Orion_Itook_12_30.jpg" data-lightbox="gallery"><img src="Astro/Orion_Itook_12_30.jpg" alt="Orion_Itook_12_30 Nebula"></a>
+                <a href="Astro/IMG-7983.JPG" data-lightbox="gallery"><img src="Astro/IMG-7983.JPG" alt="IMG-7983a"></a>
+                <a href="Astro/Moon1.PNG" data-lightbox="gallery"><img src="Astro/Moon1.PNG" alt="Moon1"></a>
+                <a href="Astro/Moon2.PNG" data-lightbox="gallery"><img src="Astro/Moon2.PNG" alt="Moon2"></a>
+                <a href="Astro/Moon3.PNG" data-lightbox="gallery"><img src="Astro/Moon3.PNG" alt="Moon3"></a>
+                <a href="Astro/Moon_12_13_22.png" data-lightbox="gallery"><img src="Astro/Moon_12_13_22.png" alt="Moon_12_13_22"></a>
+                <a href="Astro/Mini_pillars_first_try.jpg" data-lightbox="gallery"><img src="Astro/Mini_pillars_first_try.jpg" alt="Mini_pillars_first_try"></a>
+                <a href="Astro/ZJupiter.jpg" data-lightbox="gallery"><img src="Astro/ZJupiter.jpg" alt="ZJupiter"></a>
+            </div>
+        </div>
+    </section>
+    <script src="dist/js/lightbox-plus-jquery.js"></script>
 
             <section id="cv" class="section">
                 <div class="section-title">
